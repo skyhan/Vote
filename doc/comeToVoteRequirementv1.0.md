@@ -65,7 +65,7 @@
 
 ### 采用的框架 ###
  
-前端采用[backbone.js](http://backbonejs.org/ "backbone官网传送门")+[bootstrap](http://getbootstrap.com/ "bootstrap官网传送门")，后端采用reastful风格提供数据（JASON格式），数据库采用MySQL.
+前端采用[backbone.js](http://backbonejs.org/ "backbone官网传送门")+[bootstrap](http://getbootstrap.com/ "bootstrap官网传送门")，后端采用reastful风格提供数据（JSON格式），数据库采用MySQL.
 
 ### 参考 ###
  
